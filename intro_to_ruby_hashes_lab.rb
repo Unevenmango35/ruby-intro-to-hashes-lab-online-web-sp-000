@@ -3,7 +3,7 @@ hash = Hash.new
 end
 
 def actor
-
+hash = {:name => }
 end
 
 def monopoly
