@@ -1,7 +1,6 @@
 def new_hash(key,value)
 :key => {value}
 end
-end
 
 def actor
 
