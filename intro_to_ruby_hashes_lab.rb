@@ -1,5 +1,5 @@
 def new_hash(key,value)
-return key => {value}
+key => {value}
 end
 end
 
